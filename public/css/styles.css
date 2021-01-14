@@ -46,6 +46,10 @@ button {
     padding: 8px;
 }
 
+.about_paragraph {
+    text-align: justify;
+}
+
 footer {
     color: #888888;
     border-top: 1px solid #eeeeee;
